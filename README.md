@@ -1,2 +1,2 @@
 # CAMEL
-C Automated Multimedia Embedding Library
+C++ Abstract Multimedia Electronic software Library
